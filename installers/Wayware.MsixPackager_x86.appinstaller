@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///D:/Temp/Msix/Wayware.MsixPackager_x86.appinstaller"
+	Version="1.3.163.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	<MainPackage
+		Name="bd2552b2-7984-490b-bca5-6a4685257f09"
+		Version="1.3.164.0"
+		Publisher="CN=Nyiko"
+		Uri="file:///D:/Temp/Msix/Wayware.MsixPackager_1.3.164.0_x86_Test/Wayware.MsixPackager_1.3.164.0_x86.msix"
+		ProcessorArchitecture="x86" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" ShowPrompt="false" UpdateBlocksActivation="true"/>
+			<AutomaticBackgroundTask />
+			<ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+	</UpdateSettings>
+</AppInstaller>

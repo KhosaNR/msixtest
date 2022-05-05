@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///D:/Temp/Msix/Wayware.MsixPackager_x86.appinstaller"
+	Version="1.1.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+</AppInstaller>
